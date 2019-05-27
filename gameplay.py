@@ -22,7 +22,7 @@ while True:
     # game play
 
     while game_on:
-        if turn == 'player1'
+        if turn == 'player1':
 
             # show the board
             display_board(the_board)
