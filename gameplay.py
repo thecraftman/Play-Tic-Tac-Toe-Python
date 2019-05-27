@@ -69,5 +69,5 @@ while True:
                     turn = 'player1'
 
 
-    if not replay()
+    if not replay():
         break
