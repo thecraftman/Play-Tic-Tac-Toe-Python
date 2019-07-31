@@ -4,5 +4,5 @@ def place_marker(board,marker, position):
 
     test_board
 
-place_marker(test_board, '$', 8 
+place_marker(test_board, '$', 8 )
 display_board(test_board)
