@@ -1,4 +1,4 @@
-# Tic-Tac-Toe--Python- 222
+# Tic-Tac-Toe--Python- 
 Play Tic Tac Toe (X AND O) native Python game .
 
 
