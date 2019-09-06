@@ -1,5 +1,5 @@
 # Tic-Tac-Toe--Python- 
-Play Tic Tac Toe (X AND O) native Python game .
+Play Tic Tac Toe (X AND O) native Python gam
 
 
  ## Introduction
