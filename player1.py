@@ -1,2 +1,1 @@
 player1_marker
-#
