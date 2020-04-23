@@ -24,7 +24,7 @@ def display_board(board):
     display_board(test_board)
     display_board(test_board)
 
-    def player_input()
+    def player_input():
     marker = ''
 
     while marker != 'X' and marker !='O':
