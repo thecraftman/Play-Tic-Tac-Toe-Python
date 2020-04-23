@@ -54,7 +54,7 @@ def display_board(board):
 
 
 
-def win_check(board, mark)
+def win_check(board, mark):
     # WIN TIC TAC TOE ?
     return ((board [7] == mark and board[8] == mark and board[9] == mark) or #across the middle
     (board [4] == mark and board[5] == mark and board[6] == mark) or # across the middle
