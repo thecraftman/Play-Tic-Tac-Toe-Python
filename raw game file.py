@@ -114,7 +114,7 @@ def replay():
 # WHILE LOOP TO KEEP RUNNING THE GAME
 print('Welcome to TIC TAC TOE')
 
-while True:
+while True
 
     #play the game
 
