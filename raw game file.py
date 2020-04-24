@@ -1,4 +1,4 @@
-from IPython.display import clear_outpu
+from IPython.display import clear_output
 
 def display_board(board):
     clear_output()
