@@ -2,7 +2,7 @@
 
 from IPython.display import clear_output
 
-def display_board(board)
+def display_board(board):
     clear_output()
 
     print('   |   |')
