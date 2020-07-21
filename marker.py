@@ -7,4 +7,4 @@ def player_input():
         if marker == 'X':
             return ('X','O')
         else:
-            return ('O','X')
+            return ('O','X'
